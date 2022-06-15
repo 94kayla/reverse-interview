@@ -1,41 +1,5 @@
 # Reverse interview
 
-This is a list of questions which may be interesting to a tech job applicant.
-The points are not ordered and many may not apply to a given position, or work type.
-It was started as my personal list of questions, which grew over time to include both things I'd like to see more of and red flags which I'd like to avoid.
-I've also noticed how few questions were asked by people I interviewed and I think those were missed opportunities.
-
-If you asked something not listed here, send in a PR.
-
-Translations:
-
-- [Arabic](https://github.com/viraptor/reverse-interview/blob/master/translations/ARABIC.md)
-- [Catalan](https://github.com/viraptor/reverse-interview/blob/master/translations/CATALAN.md)
-- Chinese [Simplified](https://github.com/yifeikong/reverse-interview-zh) / [Traditional](https://github.com/NeroCube/reverse-interview-zh-tw/blob/master/README.md)
-- [English](https://github.com/viraptor/reverse-interview/blob/master/README.md)
-- [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
-- [German](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
-- [Hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
-- [Indonesian](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
-- [Italian](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
-- [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
-- [Polish](https://github.com/viraptor/reverse-interview/blob/master/translations/POLISH.md)
-- [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
-- [Russian](https://github.com/kix/reverse-interview/blob/master/README.md)
-- [Spanish](https://github.com/felHR85/Entrevista-inversa/blob/master/README.md)
-- [Turkish](https://github.com/viraptor/reverse-interview/blob/master/translations/TURKISH.md)
-- [Vietnamese](https://github.com/tuannh99/reverse-interview/blob/master/README.md)
-
-## Expected usage
-
-- Check which questions are interesting for you specifically
-- Check which answers you can find yourself online
-- Otherwise ask
-
-Definitely don't try to ask everything from the list. (Respect the interviewer's time and show initiative by finding answers on your own if they're already published)
-
-Remember that things tend to be fluid, re-organizations happens often.
-Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short.
 
 # The Role
 
@@ -58,24 +22,8 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 # Tech
 
 - What are the usual stacks used at the company?
-- How do you use source control?
-- How do you test code?
-- How do you track bugs?
-- How do you monitor projects?
-- How do you integrate and deploy changes? Is it CI/CD?
-- Is your infrastructure setup under version control / available as code?
-- What's the workflow from the planning to the finished task?
-- How do you prepare for disaster recovery?
-- Is there a standardised development environment? Is it enforced?
 - How quickly can you setup a new local test environment for the product? (minutes / hours / days)
-- How quickly can you respond to security issues in the code or dependencies?
 - Are all developers allowed to have local admin access of their computers?
-- Tell me about your technical principles or vision.
-- Do you have a developer documentation for your code? Do you have a separate documentation for customers?
-- Do you have some higher level documentation? (ER diagrams, database schema)
-- Do you employ static code analysis?
-- How do you manage internal / external artifacts?
-- How do you manage dependencies?
 
 # The Team
 
@@ -93,9 +41,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What are some ongoing challenges the team is experiencing that you are yet to resolve?
 - How do you track progress?
 - How are expectations and goals set, and who does the setting?
-- What does a code review look like here?
 - Walk me through a typical sprint on this team
-- How do you balance technical vs business goals?
 - How do you share knowledge?
 - How big are the teams?
 
@@ -118,15 +64,10 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
 - Is there a budget for getting certifications?
 - What's the maturity stage? (early finding direction / feature work / maintenance / ...)
-- Can I contribute to FOSS projects? Are there any approvals needed?
-- Are there any non-compete or non-disclosure agreements I'll be asked to sign?
 - Where do you see the company in the next 5/10 years? 
-- What does clean code mean to the majority of developers here?
-- When is the last time you noticed someone growing here, and in what way were they growing?
 - What does it mean to be successful here, and how do you measure success?
 - Is there a Sports / Team building Activity?
 - Are there any Hackathons conducted internally?
-- Does the company support open-source projects?
 - What kind of social events does the team/company host and are these attended by everyone?
 - Why did the company decide to hire an outsider over promoting an internal employee? 
 
@@ -139,8 +80,6 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 # Conflict
 
-- How are differences of opinions resolved?
-- What happens after pushback? ("this can't be done in the projected time")
 - What happens when the team is under pressure and commits to work over their capacity / velocity?
 - If someone identifies areas of improvement in process / technology / etc, what happens?
 - When there is a gap between expectations from management and performance of an engineer or team, what happens?
@@ -161,9 +100,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 - What's the ratio of remote to office workers?
 - Does the company provide hardware and what's the refresh schedule?
-- How do you feel about [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device)? Are there any policies around it already?
 - Are extra accessories/furniture possible to buy through the company? Is there a budget for them?
-- Is there a budget for co-working space or internet access?
 - How often are office visits expected?
 - Are the office meeting rooms always prepared for video conferences?
 
@@ -192,20 +129,13 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Are sick time and vacation time separate or do they come from the same pool?
 - Can I use vacation time before it's accrued, effectively going into a negative PTO balance?
 - What is the roll over policy is there for PTO?
-- What is the parental leave policy?
-- What is the policy on unpaid leave?
-- What is the policy for sabbatical leave?
+- Can you cash out unused PTO during the year or when you leave the company?
 
 # Other resources
 
 Find more inspiration for questions in:
 
-  - [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) by Joel Spolsky
   - [Questions I'm asking in interviews](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/) by Julia Evans
   - [Curated list of salary negotiation advices](https://github.com/petermekhaeil/salary-negotiating) by Peter Mekhaeil
 
-# License
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).

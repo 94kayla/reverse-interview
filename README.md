@@ -8,11 +8,10 @@
 - Are there any specific goals for me?
   - What's the junior/senior balance of the team? (and are there plans to change it)
 - What does the onboarding look like?
-- How much freedom for decision making do individual developers have?
+  - How much freedom for decision making do individual developers have?
 - What are the expected/core work hours?
 - What is your definition of success for this role?
-- What do you expect me to accomplish in the first 1 month/3 months?
-- How will you evaluate my performance at the end of the trial period?
+  - What do you expect me to accomplish in the first 1 month/3 months?
 - What does a typical day/week look like in this role?
 - Do you have any concerns about my application?
 - Tell me about who I would be working most closely with.
@@ -22,26 +21,26 @@
 # Tech
 
 - What are the usual stacks used at the company?
-- How quickly can you setup a new local test environment for the product? (minutes / hours / days)
+  - How quickly can you setup a new local test environment for the product? (minutes / hours / days)
 - Are all developers allowed to have local admin access of their computers?
 
 # The Team
 
 - How is the work organised?
 - How does the intra/inter-team communication typically work?
-- Do you use any tools for project organization? What is your experience with them?
-- How are differences of opinions resolved?
+  - Do you use any tools for project organization? What is your experience with them?
+  - How are differences of opinions resolved?
 - Who sets the priorities / schedule?
-- What happens after pushback? ("this can't be done in the projected time")
-- What happens when the team misses a release target?
+  - What happens after pushback? ("this can't be done in the projected time")
+  - What happens when the team misses a release target?
 - What kind of meetings happen every week?
 - Would there be a regular 1-on-1 with my manager?
-- What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
-- What happens after production incidents? Is there a culture of blameless analysis?
+  - What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
+  - What happens after production incidents? Is there a culture of blameless analysis?
 - What are some ongoing challenges the team is experiencing that you are yet to resolve?
 - How do you track progress?
 - How are expectations and goals set, and who does the setting?
-- Walk me through a typical sprint on this team
+  - Walk me through a typical sprint on this team
 - How do you share knowledge?
 - How big are the teams?
 
@@ -60,30 +59,18 @@
 - Is there a conference/travel budget and what are the rules to use it?
 - What's the promotion process? How are requirements / expectations communicated?
 - What is the performance review process like?
-- Is there a separate tech and management career path?
 - Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
 - Is there a budget for getting certifications?
 - What's the maturity stage? (early finding direction / feature work / maintenance / ...)
 - Where do you see the company in the next 5/10 years? 
 - What does it mean to be successful here, and how do you measure success?
 - Is there a Sports / Team building Activity?
-- Are there any Hackathons conducted internally?
 - What kind of social events does the team/company host and are these attended by everyone?
-- Why did the company decide to hire an outsider over promoting an internal employee? 
 
 # Social issues
 
-- What's the status of / view on diverse hiring?
 - What do you think are the gaps in the company culture? (and what is the company culture?)
 - What does work-life balance mean here?
-- Does the company have a stance regarding climate change?
-
-# Conflict
-
-- What happens when the team is under pressure and commits to work over their capacity / velocity?
-- If someone identifies areas of improvement in process / technology / etc, what happens?
-- When there is a gap between expectations from management and performance of an engineer or team, what happens?
-- Could you tell me a story about a toxic situation and how the company dealt with it?
 
 # The Business
 
@@ -102,12 +89,10 @@
 - Does the company provide hardware and what's the refresh schedule?
 - Are extra accessories/furniture possible to buy through the company? Is there a budget for them?
 - How often are office visits expected?
-- Are the office meeting rooms always prepared for video conferences?
 
 # Building Layout
 
 - What's the office layout? (open plan / cubicles / offices)
-- Is there a support / marketing / other call-heavy team close to my new team?
 
 # Catch all
 
@@ -120,7 +105,7 @@
 - If you have a bonus scheme, then how are bonuses determined?
 - If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
 - Do you have a 401k or other retirement plan? If so, does the company match additional plan contributions?
-- Are there medical benefits and if so, when do they start?
+- Are there medical benefits and if so, when do they start? Is there a waiting period or do I have medical coverage on Day 1?
 - Do you pay for relocation?
 
 # Time Off
